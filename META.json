@@ -52,6 +52,17 @@
       }
    },
    "release_status" : "stable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/TBSliver/MooX-Options-Actions/issues"
+      },
+      "homepage" : "https://github.com/TBSliver/MooX-Options-Actions",
+      "repository" : {
+         "type" : "git",
+         "url" : "https://github.com/TBSliver/MooX-Options-Actions.git",
+         "web" : "https://github.com/TBSliver/MooX-Options-Actions"
+      }
+   },
    "version" : "0.001"
 }
 
