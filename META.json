@@ -37,11 +37,16 @@
       },
       "runtime" : {
          "requires" : {
+            "Import::Into" : "0",
+            "Moo" : "0",
+            "MooX::Options" : "0",
+            "namespace::clean" : "0",
             "perl" : "5.008005"
          }
       },
       "test" : {
          "requires" : {
+            "Test::Exception" : "0",
             "Test::More" : "0.96"
          }
       }
